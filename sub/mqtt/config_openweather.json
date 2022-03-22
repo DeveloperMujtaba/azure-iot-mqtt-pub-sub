@@ -1,0 +1,8 @@
+{
+  "IotHubAddress":"test-iot-hub-007.azure-devices.net",
+  "DeviceId":"thrust-motor",
+  "SharedAccessKey":"Tn1omD5wpHfoHNCUz7M54aJoMc/WDftx+L+ypNEq0og=",
+  "SensorModule":"sensor_openweather",
+  "OpenWeatherMapApiKey":"1dc59d7c0b60ed24edacfa27536235c3",
+  "OpenWeatherMapLocationId":"Melbourne, AU"
+}
